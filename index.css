@@ -27,6 +27,7 @@ header img {
     margin-top: 100px;
     padding-top: 20px;
     padding-left: 200px;
+    padding-right: 3px;
     padding-bottom: 15px;
     color: #cccccc;
     font-family: 'Comfortaa', cursive;
@@ -146,7 +147,7 @@ footer {
     text-align: center;
     color: #cccccc;
     background-color: #CB2D6F;
-    border-radius: 0 10px 10px 0;
+    border-radius: 10px 10px 10px 10px;
     font-family: monospace;
     margin-bottom: 0;
 }
