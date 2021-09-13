@@ -38,6 +38,7 @@ body {
     margin: 0;
     background-color: #0F292F;
     width: 1390px;
+    height: max-content;
 }
 
 .vzdelani {
@@ -71,10 +72,12 @@ body {
     padding-left: 10px;
 }
 
-.kontakt h2 {
+h2 {
     border: 2px solid #CB2D6F;
     font-family: 'Comfortaa', cursive;
     text-align: center;
+}
+.kontakt h2 {
     padding: 10px;
     margin: 40px;
 }
@@ -100,8 +103,6 @@ body {
 }
 
 .vzdelani h2 {
-    border: 2px solid #CB2D6F;
-    font-family: 'Comfortaa', cursive;
     padding: 20px;
     margin-left: 45px;
     margin-bottom: 30px;
@@ -113,8 +114,6 @@ body {
     margin-left: 40px;
 }
 .skills h2 {
-    border: 2px solid #CB2D6F;
-    font-family: 'Comfortaa', cursive;
     padding: 20px;
     margin-bottom: 30px;
     margin-top: 40px;
