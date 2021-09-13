@@ -4,6 +4,8 @@ header {
 }
 
 header img {
+    position: absolute;
+    z-index: 2;
     border-radius: 50%;
     border: 8px solid #cccccc;
     height: 200px;
@@ -15,9 +17,11 @@ header img {
 }
 
 .pruh h1 {
+    position:absolute;
+    z-index: 1;
     background-color: #CB2D6F;
     border-radius: 20px;
-    width: 153%;
+    width: 75%;
     margin-right: 0;
     margin-left: 80px;
     margin-top: 100px;
@@ -138,7 +142,7 @@ body {
 
 footer {
     float: left;
-    width: 93.7%;
+    width: 93.5%;
     text-align: center;
     color: #cccccc;
     background-color: #CB2D6F;
