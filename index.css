@@ -1,0 +1,152 @@
+header {
+    float: left;
+    position: absolute;
+}
+
+header img {
+    border-radius: 50%;
+    border: 8px solid #cccccc;
+    height: 200px;
+    background-color: #CB2D6F;
+    float: left;
+    margin: 20px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+header h1 {
+    background-color: #CB2D6F;
+    border-radius: 20px;
+    width: 153%;
+    margin-right: 0;
+    margin-left: 80px;
+    margin-top: 100px;
+    padding-top: 20px;
+    padding-left: 200px;
+    padding-bottom: 15px;
+    color: #cccccc;
+    font-family: 'Comfortaa', cursive;
+    font-size: 40px;
+    letter-spacing: 2px;
+}
+
+body {
+    margin: 0;
+    background-color: #0F292F;
+    
+}
+
+.vzdelani {
+    float: left;
+    margin-left: 0;
+    margin-top: 300px;
+    padding-left: 20px;
+    background-color: #0F292F;
+    width: 30%;
+    font-family: monospace;
+    color: #cccccc;
+}
+
+.skills {
+    float: left;
+    margin-left: 0;
+    margin-top: 230px;
+    padding-left: 20px;
+    background-color: #0F292F;
+    width: 30%;
+    font-family: monospace;
+    color: #cccccc;
+}
+.kontakt {
+    position:static;
+    display: inline-block;
+    background-color: #ccccccfb;
+    width: 27%;
+    margin-top: 0;
+    padding-top: 230px;
+    padding-left: 10px;
+}
+
+.kontakt h2 {
+    border: 2px solid #CB2D6F;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    padding: 10px;
+    margin: 40px;
+}
+
+.kontakt table {
+    margin-left: 30px;
+}
+
+.kontakt table img {
+    padding: 15px;
+}
+
+.kontakt table td {
+    font-family: monospace;
+    font-size: 15px;
+}
+
+.kontakt p {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    text-align: center;
+    letter-spacing: 10px;
+}
+
+.vzdelani h2 {
+    border: 2px solid #CB2D6F;
+    font-family: 'Comfortaa', cursive;
+    padding: 20px;
+    margin-left: 45px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    width: max-content;
+}
+
+.skills {
+    margin-left: 40px;
+}
+.skills h2 {
+    border: 2px solid #CB2D6F;
+    font-family: 'Comfortaa', cursive;
+    padding: 20px;
+    margin-bottom: 30px;
+    margin-top: 40px;
+    width: max-content;
+}
+
+.vzdelani ul {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 40px;
+    margin-left: 40px;
+}
+
+.skills ul {
+    font-family: monospace;
+    font-size: 14px;
+    line-height: 40px;
+}
+
+.vzdelani p {
+    letter-spacing: 10px;
+    margin-left: 65px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+footer {
+    float: left;
+    width: 93.7%;
+    text-align: center;
+    color: #cccccc;
+    background-color: #CB2D6F;
+    border-radius: 0 10px 0px 0;
+    font-family: monospace;
+    margin-bottom: 0;
+}
+
+
+
